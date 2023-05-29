@@ -13,9 +13,9 @@ const GlobalStyle = createGlobalStyle`
         background-color: green;
         font-size: 20px;
         font-weight: 600;
-        color: red;
+        color: white;
         cursor: pointer;
-        width: 100%;
+        width: 45%;
         padding: 12px;
     }
     h1 {
